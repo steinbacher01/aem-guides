@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://guides.adobe.com/eds-workers/steinbacher01/aem-guides/main/docs
+    url: https://guides.adobe.com/eds-workers/github/github.com/steinbacher01/aem-guides/main/docs
     type: markup
 
